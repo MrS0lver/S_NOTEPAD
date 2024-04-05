@@ -9,26 +9,35 @@ Hey Guys I'm Mr.Solver,Welcome to the Smart Notepad project! 🚀 This Python-ba
 
 To deploy this project first clone this repo - 
 
-- Open your terminal or command prompt.
+ - Open your terminal or command prompt.
 
-- Run the following command to clone the repository.
+ - Run the following command to clone the repository.
 
 ```bash
   git clone https://github.com/MrS0lver/S_NOTEPAD
 ```
 Install Dependencies -
 
-- Navigate to the project directory.
+ - Navigate to the project directory.
 
 ```bash
   cd S_NOTEPAD
 ```
 
+ - Install the required dependencies using pip.
 
+```bash
+  pip install -r requirements.txt
+```
 
+Run the Application - 
 
+ - Run the main script SM Notepad.pyw.
 
-Enjoy!!
+```bash
+  python SM Notepad.pyw
+```
+ - The Smart Notepad application window will open, ready for use.. Enjoy
 
 
 ## ✨ Features
