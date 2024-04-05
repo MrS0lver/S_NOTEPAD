@@ -32,7 +32,7 @@ Enjoy!!
 https://github.com/MrS0lver/S_NOTEPAD/assets/127603895/da30dbe5-f695-4853-a59f-00c716b49a74
 
 
- <img src="https://github.com/MrS0lver/Application/blob/main/Screenshots/Screenshot%202023-03-15%20231457.png" width="300" height="400" /> <img src = "https://github.com/MrS0lver/Application/blob/main/Screenshots/Screenshot%202023-03-15%20231551.png" width="300" height="400" /> <img src = "https://github.com/MrS0lver/Application/blob/main/Screenshots/Screenshot%202023-03-15%20231657.png" width="300" height="400" />
+
 
 ## Feedback
 
