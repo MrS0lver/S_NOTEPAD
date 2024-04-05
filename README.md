@@ -23,8 +23,9 @@ Enjoy!!
 
 ## Features
 
-- Live previews
-- Interactive GUIs 
+- Write: Easily jot down your thoughts, ideas, or tasks using the intuitive interface.
+- Read: Access your saved notes effortlessly and review them at any time.
+- Speak: Utilize the built-in speech feature to listen to your notes being read aloud, enhancing accessibility and convenience.
 
 
 ## Preview
