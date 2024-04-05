@@ -39,6 +39,8 @@ If you have any feedback, please reach out to us at https://github.com/MrS0lver/
 ## 🔗 Author
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mrs0lver)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/horryportier)
+
 
 <center>
   <img src="https://pbs.twimg.com/profile_images/1670456206807400449/DEbRkvAL_400x400.jpg" alt="Description of your image">
