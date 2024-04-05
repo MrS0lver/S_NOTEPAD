@@ -12,7 +12,6 @@ To deploy this project first clone this repo.
 ```bash
   git clone https://github.com/MrS0lver/S_NOTEPAD
 ```
-Then run the .exe file.
 Enjoy!!
 
 
