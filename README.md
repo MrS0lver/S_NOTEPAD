@@ -47,5 +47,5 @@ If you have any feedback, please reach out to us at https://github.com/MrS0lver/
 
 ![Logo](https://pbs.twimg.com/profile_images/1670456206807400449/DEbRkvAL_400x400.jpg)
 
-`Thanks for Reading.`
+`Thanks for Reading...`
 
