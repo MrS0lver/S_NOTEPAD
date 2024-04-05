@@ -7,7 +7,7 @@ import webbrowser as wb
 class TextEditor:
     def __init__(self, root):
         self.root = root
-        self.root.title("Text Editor")
+        self.root.title("SM Notepad")
         self.root.geometry("600x400")
 
         self.text_area = tk.Text(self.root, font=("Arial", 12))
@@ -52,7 +52,7 @@ class TextEditor:
         self.menu_bar.add_cascade(label="Task", menu=self.voice_menu)
         #Contact us 
         self.contact_menu = tk.Menu(self.edit_menu, tearoff=0)
-        self.contact_menu.add_command(label="Instagram", command=self.Instagram)
+        self.contact_menu.add_command(label="Twitter", command=self.Instagram)
         self.menu_bar.add_cascade(label="Contact", menu=self.contact_menu)
 
         self.root.config(menu=self.menu_bar)
@@ -77,7 +77,7 @@ class TextEditor:
             size = 8
         self.text_area.configure(font=("Arial", size))
     def Instagram(self):
-        wb.open_new("https://instagram.com/babarsaeed.me?igshid=MzRlODBiNWFlZA==")
+        wb.open_new("https://twitter.com/Mrs0lver")
     def read(self):
         eng = pt.init()
         eng.getProperty('rate')
