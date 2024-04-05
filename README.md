@@ -14,7 +14,7 @@ Hey Guys I'm Mr.Solver, & in this repo I have uploaded my Applications which I h
 To deploy this project first clone this repo.
 
 ```bash
-  git clone https://github.com/MrS0lver/Application
+  git clone https://github.com/MrS0lver/S_NOTEPAD
 ```
 Then run the .exe file.
 Enjoy!!
