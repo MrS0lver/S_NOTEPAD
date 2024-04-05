@@ -1,7 +1,8 @@
 
-# My Tkinter Applications
+# Smart Notepad with Python
 
-Hey Guys I'm Mr.Solver, & in this repo I have uploaded my Applications which I have made using tkinter GUI toolkit on Python.
+Hey Guys I'm Mr.Solver, Welcome to the Smart Notepad project! This Python-based notepad offers a unique blend of convenience and functionality, allowing users to seamlessly write, read, and even speak their notes. With just a few lines of code, you can transform your traditional note-taking experience into an interactive and efficient process.
+
 
 
 ## Authors
@@ -26,7 +27,7 @@ Enjoy!!
 - Interactive GUIs 
 
 
-## Screenshots
+## Preview
  
 
 https://github.com/MrS0lver/S_NOTEPAD/assets/127603895/da30dbe5-f695-4853-a59f-00c716b49a74
