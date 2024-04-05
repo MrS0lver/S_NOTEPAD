@@ -5,7 +5,7 @@ Hey Guys I'm Mr.Solver,Welcome to the Smart Notepad project! 🚀 This Python-ba
 
 
 
-## Deployment
+## 🚀 Deployment
 
 To deploy this project first clone this repo.
 
@@ -16,7 +16,7 @@ Then run the .exe file.
 Enjoy!!
 
 
-## Features
+## ✨ Features
 
 - Write: Easily jot down your thoughts, ideas, or tasks using the intuitive interface.
 - Read: Access your saved notes effortlessly and review them at any time.
@@ -31,7 +31,7 @@ https://github.com/MrS0lver/S_NOTEPAD/assets/127603895/da30dbe5-f695-4853-a59f-0
 
 
 
-## Feedback
+## 📭 Feedback
 
 If you have any feedback, please reach out to us at https://github.com/MrS0lver/
 
