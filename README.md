@@ -57,10 +57,12 @@ https://github.com/MrS0lver/S_NOTEPAD/assets/127603895/da30dbe5-f695-4853-a59f-0
 
 ## 📭 Feedback
 
+
 If you have any feedback, please reach out to us at https://github.com/MrS0lver/
 
 
 ## 🔗 Author
+
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mrs0lver)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/horryportier)
