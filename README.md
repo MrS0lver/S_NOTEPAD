@@ -37,7 +37,7 @@ Run the Application -
 ```bash
   python SM Notepad.pyw
 ```
- - The Smart Notepad application window will open, ready for use.. Enjoy
+ - The Smart Notepad application window will open, ready for use.. Enjoy 🎉 
 
 
 ## ✨ Features
