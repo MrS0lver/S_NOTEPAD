@@ -53,6 +53,7 @@ class TextEditor:
         #Contact us 
         self.contact_menu = tk.Menu(self.edit_menu, tearoff=0)
         self.contact_menu.add_command(label="Twitter", command=self.Instagram)
+        self.contact_menu.add_command(label="GitHub", command=self.github)
         self.menu_bar.add_cascade(label="Contact", menu=self.contact_menu)
 
         self.root.config(menu=self.menu_bar)
@@ -78,6 +79,8 @@ class TextEditor:
         self.text_area.configure(font=("Arial", size))
     def Instagram(self):
         wb.open_new("https://twitter.com/Mrs0lver")
+    def github(self):
+        wb.open_new("https://github.com/MrS0lver")
     def read(self):
         eng = pt.init()
         eng.getProperty('rate')
