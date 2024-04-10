@@ -37,7 +37,7 @@ Run the Application -
 ```bash
   python SM Notepad.pyw
 ```
- - The Smart Notepad application window will open, ready for use.. Enjoy
+ - The Smart Notepad application window will open, ready for use.. Enjoy 🎉 
 
 
 ## ✨ Features
@@ -57,18 +57,17 @@ https://github.com/MrS0lver/S_NOTEPAD/assets/127603895/da30dbe5-f695-4853-a59f-0
 
 ## 📭 Feedback
 
+
 If you have any feedback, please reach out to us at https://github.com/MrS0lver/
 
 
 ## 🔗 Author
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mrs0lver)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/horryportier)
 
-
-<center>
-  <img src="https://pbs.twimg.com/profile_images/1670456206807400449/DEbRkvAL_400x400.jpg" alt="Description of your image">
-</center>
+<a href="#">
+  <img src="https://pbs.twimg.com/profile_images/1670456206807400449/DEbRkvAL_400x400.jpg" alt="Mr Solver" width = 180>
+</a>
 
 `Thanks for Reading...`
 
