@@ -3,12 +3,14 @@ from tkinter import filedialog,font
 import speech_recognition as sr
 import pyttsx3 as pt
 import webbrowser as wb
+import threading
 
 class TextEditor:
     def __init__(self, root):
         self.root = root
         self.root.title("SM Notepad")
         self.root.geometry("600x400")
+        self.root.iconbitmap("notepad.ico")
 
         self.text_area = tk.Text(self.root, font=("Arial", 12))
         self.text_area.pack(fill=tk.BOTH, expand=True)
@@ -46,7 +48,7 @@ class TextEditor:
         self.menu_bar.add_cascade(label="Fonts", menu=self.Font_menu)
         #Task (Speak & Read)
         self.voice_menu = tk.Menu(self.edit_menu, tearoff=0)
-        self.voice_menu.add_command(label="Speak & Write", command=self.voice_writting)
+        self.voice_menu.add_command(label="Speak & Write", command=self.voice_writing)
         self.voice_menu.add_separator()
         self.voice_menu.add_command(label="Read", command=self.read)
         self.menu_bar.add_cascade(label="Task", menu=self.voice_menu)
@@ -81,14 +83,20 @@ class TextEditor:
         wb.open_new("https://twitter.com/Mrs0lver")
     def github(self):
         wb.open_new("https://github.com/MrS0lver")
+    
     def read(self):
+        threading.Thread(target=self.read_func,daemon=True).start()
+    def read_func(self):
         eng = pt.init()
         eng.getProperty('rate')
         eng.setProperty('rate',145)
         eng.say(self.text_area.get('1.0','end-1c'))
         eng.runAndWait()
+    
+    def voice_writing(self):
+        threading.Thread(target=self.voice_write,daemon=True).start()
 
-    def voice_writting(self):
+    def voice_write(self):
         recognizer = sr.Recognizer()
         with sr.Microphone() as source:
             print("Listening...")
