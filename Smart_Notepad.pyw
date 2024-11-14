@@ -10,11 +10,10 @@ class TextEditor:
         self.root = root
         self.root.title("SM Notepad")
         self.root.geometry("600x400")
-        # self.root.iconbitmap("notepad.ico")
+        self.root.iconbitmap("notepad.ico")
 
         self.text_area = tk.Text(self.root, font=("Arial", 12))
         self.text_area.pack(fill=tk.BOTH, expand=True)
-
         self.text_area.bind("<MouseWheel>", self.change_font_size)
         
         # self.text_area = tk.Text(self.root)
