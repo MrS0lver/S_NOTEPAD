@@ -30,7 +30,7 @@ Install Dependencies -
   pip install -r requirements.txt
 ```
 
-Run the Application - 
+Run the Application-
 
  - Run the main script SM Notepad.pyw.
 
